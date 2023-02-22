@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VB Hot Potato Assessement
+</name>
+</assembly>
+<members>
+<member name="T:VB_Hot_Potato_Assessement.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources._Return">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.Hot_potato">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.kaboom">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.loser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.LoserTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.Me_Bomb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.me_hold_bomb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.New_Bomb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.Start">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.Start_V2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.Test">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.winner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VB_Hot_Potato_Assessement.My.Resources.Resources.WinnerTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
